@@ -107,7 +107,8 @@ was minimized to F=B'D'+BD.
 and successfully implemented using Verilog HDL.
 
 ## OUTPUT
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b1adfe7f-4fbf-46c7-99ee-6d5332b2dcef" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/96814293-5126-4237-8ebe-31fc9c5237b0" />
+
 
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis.
 7. Viva-Voce Questions
